@@ -91,6 +91,18 @@ nav ul li:hover{
     transition: 0.2s ease-in;
 }
 
+.checkbtn{
+    font-size:30px;
+    color:white;
+    float:right;
+    margin-right:40px;
+    cursor:pointer;
+}
+
+#check{
+    display:none;
+}
+
 .hero_section{
     
     background-image: url("./Images/3.jpg");
